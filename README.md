@@ -1,3 +1,3 @@
 # Dream Collab TAS
 
-https://gamebanana.com/mods/391486#
+https://gamebanana.com/mods/391486
