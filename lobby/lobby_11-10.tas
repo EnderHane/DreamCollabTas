@@ -36,15 +36,15 @@ console load DreamCollab2022/0-Lobbies/1-Maps 128 1888
   14,L,U,X
    1,R,J,G
    6,L,J
-   5,L
+   1
+   4,L
    1,L,J
    3,L
-   1,L,J
-   9,L,U,X
-   3,L,K,G
+   8,L,U,X
+   4,L,K,G
    8,L
-   3,L,J
-  10,L,K,G
+   4,L,J
+   9,L,K,G
   13,U,X
   11,U,C
   11,U,X
@@ -60,4 +60,4 @@ console load DreamCollab2022/0-Lobbies/1-Maps 128 1888
    8,R,Z
    1,R,J
    1,N
-#0:04.556(268)
+#0:04.539(267)
