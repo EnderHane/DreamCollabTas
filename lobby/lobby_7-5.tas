@@ -7,12 +7,12 @@ console load DreamCollab2022/0-Lobbies/1-Maps 768 1048
   10,R,Z
    1,R,J
    1,J
-   4,R,K,G
+   8,R,K,G
    1,K
-   6,R,K
+   2,R,K
   12,R,J,G
-  16,U,X
-   2,R,J
+  14,U,Z
+   3,R,J
   11,R
   13,R,Z
    1,R,J
@@ -20,27 +20,34 @@ console load DreamCollab2022/0-Lobbies/1-Maps 768 1048
    5,R,J
    3,R
   15,R,Z
-  12,R
+  15,R
+   1,R,D
    4,R,Z
    1,R,J
-  12,R
-   3,R,J
-  10,R,Z
-   1,R,J
-   7,R,K,G
-  34,R,D,X
+   2,R
    1,R,J
    1,R
-  17,R,D,X
    1,R,J
+   7,R,K
+   1
+   7,R,D,X
+   1,R,J,G
+   2,J
+   6,R
+   1,R,J
+   2
+   1,R,K
+   1,K
+  33,R,D,X
+   1,R,J
+  15,R,D,X
+   2,R
+   2,R,J
+  15,R,D,X
    3,R
-  18,R,D,X
-   3,R,J
-   1,R
-  42,R,D,X
-   3,R,J
-  15,R,D,X
-   4,R,J
-  15,R,D,X
+   2,R,J
+  41,R,D,X
+   5,R,J
+  23,R,D,X
    1,N
-#0:04.811(283)
+#0:04.658(274)
