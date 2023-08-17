@@ -15,12 +15,10 @@ console load DreamCollab2022/0-Lobbies/1-Maps 96 1464
   26
    1,R,U
   37,F,356
-  36,F,356.2
-   3,F,340
+  35,F,356.4
+   4,F,345
   12,L,Z
    3,L,J
-  15,L,D,X
-# .034 vertical pixels off from landing a frame earlier
-   2,L
+  16,L,D,X
    1,N
-#0:02.924(172)
+#0:02.907(171)
