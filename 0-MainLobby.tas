@@ -1,0 +1,73 @@
+unsafe
+console wipedebug
+console load DreamCollab2022/0-Lobbies/1-Maps
+Set,CrystallineHelper.TriggerTriggerRandomizationType,ChapterTimer
+   1
+console hearts 0
+
+#Start
+Read,lobby/lobby_0-15.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/space_journey.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_15-6.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/dancer_in_rain.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_6-14.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/reincarnation.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_14-13.tas,Start
+Read,util/EnterMapNoCredit.tas,Start
+Read,map/jam_temple.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_13-12.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/gray_city.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_12-11.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/fez_parallel_world.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_11-10.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/forest_encounter.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_10-9.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/forgotten_cave.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_9-8.tas,Start
+Read,util/EnterMapNoCredit.tas,Start
+Read,map/starlight.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_8-7.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/jellyfish_area.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_7-5.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/sky_palace.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_5-4.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/reverse_void.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_4-3.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/purple_summit.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_3-2.tas,Start
+Read,util/EnterMapNoCredit.tas,Start
+Read,map/rifsummit.tas,Start
+Read,util/CompleteMap.tas
+Read,lobby/lobby_2-1.tas,Start
+Read,util/EnterMap.tas,Start
+Read,map/cabin_in_the_forest.tas,Start
+Read,util/CompleteMap.tas
+  36
+   1,Q
+   1,O
+  31
+Read,lobby/lobby_0-16.tas,Start

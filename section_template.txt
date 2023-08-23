@@ -1,0 +1,4 @@
+Read,lobby/lobby_%src%-%dst%.tas,Start
+Read,%dst:2%,Start
+Read,%dst:1%,Start
+Read,util/CompleteMap.tas
