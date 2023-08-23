@@ -1,0 +1,33 @@
+Set,CrystallineHelper.TriggerTriggerRandomizationType,ChapterTimer
+
+unsafe
+EnforceLegal
+
+Read,0-FullGameFile.tas,Start
+Read,prologue.tas,Start
+Read,util/LoadLobby.tas
+Read,0-MainLobby.tas,Start
+Read,util/CompleteLobby.tas
+
+#journal
+   1,X
+  20
+   1,N
+  30
+   1,R
+  14
+#
+ 100
+#
+   1,X
+  30
+   1,O
+  21
+   1,O
+  46
+
+Read,util/Journal.tas,Start
+
+#
+ 180
+#
