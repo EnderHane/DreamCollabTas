@@ -1,4 +1,4 @@
-RecordCount: 4559
+RecordCount: 4627
 
 console load DreamCollab2022/1-Maps/zzmFEZ
    1
@@ -283,12 +283,15 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   11,J
   20
   18,R
-  42,R,D
-   1,R,G
-   9
-  13,R,U,Z
-   7,J
-   5,R,J
+  20,R,D
+   9,D
+   1,R,D
+  12,D
+   4
+   1,L
+   1,L,J,G
+   1,R,J
+  18,U,X
   18,R,U,Z
    1,L,J,G
    2,L,K,G
@@ -397,4 +400,4 @@ console load DreamCollab2022/1-Maps/zzmFEZ
   14,R,U,X
  135
 
-ChapterTime: 0:52.615(3095)
+ChapterTime: 0:52.445(3085)
