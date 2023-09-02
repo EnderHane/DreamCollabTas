@@ -1,7 +1,7 @@
 # DreamCollab2022
 # https://gamebanana.com/mods/391486
 
-RecordCount: 3334
+RecordCount: 3479
 
 console load DreamCollab2022/1-Maps/ForestEncounter
    1
@@ -10,31 +10,26 @@ console load DreamCollab2022/1-Maps/ForestEncounter
  190
 
 #lvl_a-01
-   6,R,D,X
    1,L,J
-   7,L
-   3,L,D
-   1,L,D,J
-   2,J
-  12,L,J
-  15,U,X
-  44,R,D
+   1,L
+  12,R,D,X
+   5,L,J
+  15,L,U,Z
+  25,R
+   1,R,D
+   5,D
+   1
    4,R,Z
    1,R,J
+   2,R,K,G
    1,R
-   4,R,K,G
-   1,R
-   1,R,J,G
-   9,R
+   3
+   7,R
    1,R,J
-  10,R,D,X
+   9,R,D,X
    1,R,J
-  12,R,D
-repeat 12
-   1,D
-   1
-endrepeat
-   1
+  11,R,D
+   8
   10,L,Z
    1,L,J
    5,L
@@ -194,19 +189,21 @@ endrepeat
   25,R,K
   15,U,Z
   36,R,U
-  60,F,49.1
-   7,F,80
-  31,F,121
+  31,F,49.66
+  30,F,48.93
+   7,F,90
+  26,F,125
   15,R,Z
-   5,R,D
-  15,D
+  19,R,D
+   1,R
+   1,R,D
   15,R,Z
   35,R
    1,R,U
    6,F,37
   15,R,Z
-   2,D
-  23,R,D
+   3,D
+  22,R,D
    2,R,J
    7,R,Z
    1,R,J
@@ -306,4 +303,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 0:35.258(2074)
+ChapterTime: 0:34.408(2024)
