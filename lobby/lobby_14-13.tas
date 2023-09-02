@@ -11,15 +11,11 @@ console load DreamCollab2022/0-Lobbies/1-Maps 1000 1304
    2,L,J
    1,L
    5,L,J
-   9,L
-   3
-  35,D
-  10,L,D,X
-   5,R,J
-  15,R,D,X
-   2,R,J
-   5,R
-   1,R,J
-   5,R
+   3,L
+  48,R,D
+  13,R,D,X
+   7,R,J
+   1,R
+   8,R,K
    1,N
-#0:02.057(121)
+#0:01.938(114)
